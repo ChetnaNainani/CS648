@@ -26,5 +26,5 @@ Run .html file in any browser like Chrome, Firefox, etc.
 
 ## Disclaimer
 
-<i>This website is strictly owned and operated by Chetna Ajay Nainani, any use of its code/content will be treated as a felony</i>
+<i>This website is strictly owned and operated by Chetna Ajay Nainani, any usage of its code or content will be considered illegal</i>
 
